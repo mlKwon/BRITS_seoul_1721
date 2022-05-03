@@ -8,4 +8,5 @@ I refered the article and github code provided from the authors. <br>
 If you want to fill in the missing value collected from air pollutants monitoring stations, you can use this code.
 
 ## reference link
-
+https://github.com/caow13/BRITS -> code link <br>
+https://proceedings.neurips.cc/paper/2018/file/734e6bfcd358e25ac1db0a4241b95651-Paper.pdf -> article link
